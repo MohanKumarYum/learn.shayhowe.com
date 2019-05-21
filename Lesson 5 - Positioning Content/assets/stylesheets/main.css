@@ -113,7 +113,7 @@ h1, h3, h4, h5, p {
 */
 
 code {
-	background: #5eb32d;
+	background: #2db34a;
 	border-radius: 6px;
 	color: #fff;
 	font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
@@ -126,12 +126,12 @@ header,
 section,
 aside,
 footer {
-	margin: 0 1.5% 24px 1.5%;
+	margin: 0 1.7% 24px 1.6%;
 }
 
 section {
 	float: left;
-	width: 63%
+	width: 30%
 }
 
 aside {
